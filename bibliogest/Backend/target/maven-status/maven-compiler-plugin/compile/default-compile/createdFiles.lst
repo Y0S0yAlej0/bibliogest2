@@ -1,0 +1,6 @@
+com\BIbliogest\Real\RealVersionOfBibliogestApplication.class
+com\BIbliogest\Real\repository\UsuarioRepository.class
+com\BIbliogest\Real\controller\HolaController.class
+com\BIbliogest\Real\model\Usuario.class
+com\BIbliogest\Real\config\WebConfig.class
+com\BIbliogest\Real\controller\UsuarioController.class
